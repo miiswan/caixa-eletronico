@@ -1,2 +1,2 @@
 # caixa-eletronico
-caixa eletronico em zig
+Projeto de um simulador de caixa eletrônico na linguagem Zig.
